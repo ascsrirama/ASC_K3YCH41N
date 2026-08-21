@@ -24,7 +24,7 @@ The Gerber files are included so you can order and build your own (if you like i
 
 | Front | Back |
 |:---:|:---:|
-| ![Front of board](https://i.imgur.com/gJxc6bu.png) | ![Back of board](https://i.imgur.com/uulafRo.png) |
+| ![Front of board](https://i.imgur.com/QUBogWX.png) | ![Back of board](https://i.imgur.com/65o1xAu.png) |
 
 </div>
 
