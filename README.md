@@ -37,8 +37,6 @@ The Gerber files are included so you can order and build your own (if you like i
 - **Board outline** — The PCB itself is shaped as a functional keychain, with a mounting hole for a keyring, rather than a plain rectangle.
 
 ## Features
-
--  Hanuman silkscreen art
 -  LinkedIn QR code *(yes, a recruiter did scan it and it worked)*
 
 ## 🧩 Components
