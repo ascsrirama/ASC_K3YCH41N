@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ASC_K3YCH41N
+# ASC_K3YCH41N
 
 **A little PCB that lights up, and also opens my car.**
 
@@ -62,5 +62,6 @@ Current revision: **Feb 2026**
 
 ## 🐛 Issues
 
-- **Incorrect switching** — the switch in the schematic was wired incorrectly, resulting in a small fix with the wire
-- **Silkscreen misalignment** — bottom layer QR code is off center
+- **Incorrect switching** — the switch in the schematic was wired incorrectly, resulting in a small fix with the wire [not yet fixed]
+- **Silkscreen misalignment** — bottom layer QR code is off center [not yet fixed]
+- **Text missing** - Some text is missing on the top layer silk screen "ASC_K3YCH41N" [not yet fixed]
